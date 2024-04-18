@@ -44,3 +44,7 @@ const youtubeURL = 'https://www.youtube.com/replace-with-full-url';
 ```
 node download.mjs
 ```
+
+### Legal Note
+
+This application is intended for personal use and educational purposes. It's your responsibility to respect YouTube's Terms of Service and the copyright of content creators.
